@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_text_size_width">40dp</dimen>
+    <dimen name="Edit_text_margin_start">70dp</dimen>
+    <dimen name="textView_marginStart">3dp</dimen>
+</resources>
